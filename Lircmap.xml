@@ -1,0 +1,22 @@
+<lircmap>
+    <remote device="devinput">		
+        <power>KEY_POWER</power>
+		<start>KEY_HOME</start>
+		<up>KEY_UP</up>
+		<left>KEY_LEFT</left>
+		<select>KEY_OK</select>
+		<enter>KEY_ENTER</enter>
+		<right>KEY_RIGHT</right>
+		<down>KEY_DOWN</down>
+		<back>KEY_BACK</back>
+		<stop>KEY_STOP</stop>
+		<title>KEY_OPTION</title>
+		<reverse>KEY_REWIND</reverse>
+        <play>KEY_PLAY</play>
+		<pause>KEY_PLAYP</pause>
+		<forward>KEY_FASTFORWARD</forward>
+        <skipminus>KEY_PREVIOUS</skipminus>
+		<skipplus>KEY_NEXT</skipplus>
+		<info>KEY_INFO</info>
+	</remote>
+</lircmap>
